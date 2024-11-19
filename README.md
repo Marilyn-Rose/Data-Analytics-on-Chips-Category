@@ -17,6 +17,6 @@ There are 2 datasets:
 * `TOT_SALES`: Total Sales
 
 #### Customer Data
-`LYLTY_CARD_NBR`: The customer loyalty card number
-`LIFESTAGE`: Customers current stage of life
-`PREMIUM_CUSTOMER`: Different kinds of customers
+* `LYLTY_CARD_NBR`: The customer loyalty card number
+* `LIFESTAGE`: Customers current stage of life
+* `PREMIUM_CUSTOMER`: Different kinds of customers
